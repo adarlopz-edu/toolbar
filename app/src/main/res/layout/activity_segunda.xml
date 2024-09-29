@@ -8,16 +8,14 @@
     tools:context=".segunda"
     android:layout_gravity="center"
     android:gravity="center">
-
     <TextView
         android:id="@+id/textViewSegunda"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="something"
+        android:text=""
         android:textSize="25sp"
-        android:textColor="#151617"
+        android:textColor="#C0CBD4"
         android:layout_gravity="center"
         android:gravity="center">
     </TextView>
-
 </LinearLayout>
